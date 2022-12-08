@@ -15,7 +15,7 @@ alarm_file_path = os.path.join("audio", "wake_up.wav")
 # komponen streamlit
 st.set_page_config(
     page_title="DeeVi",
-    page_icon="mbkm image.png",
+    page_icon="logodeevi.jpeg",
     layout="wide",
     initial_sidebar_state="expanded",
     menu_items={
